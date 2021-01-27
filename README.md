@@ -1,1 +1,1 @@
-# philancie-symfony-react
+# Symfony-react-philancie
